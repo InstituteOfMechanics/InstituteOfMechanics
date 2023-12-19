@@ -4,7 +4,7 @@ This is the official GitHub Page of the Institute of Mechanics at TU Dortmund Un
 
 Selected research codes of our group are published here as open source.
 
-For further information on our group visit our website [www.iofm.de](https://www.iofm.de).
+For further information on our group visit our website [https://im.mb.tu-dortmund.de/](https://im.mb.tu-dortmund.de/).
 
 ## Previously published 
 
